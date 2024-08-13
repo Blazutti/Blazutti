@@ -1,4 +1,8 @@
-<h2 align="center">Olá 👋! Meu nome é Breno Blazute...<br>Sou iniciante em programação</h2>
+<h2 align="center">Olá 👋! Meu nome é Breno Blazute...</h2>
+
+###
+
+<p align="left">Sou iniciante em programação, atualmente fazendo parte do programa ONE da Alura, Turma 7</p>
 
 ###
 
@@ -26,6 +30,14 @@
   <a href="https://www.linkedin.com/in/breno-blazute/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Blazutti.Blazutti&"  />
 </div>
 
 ###
